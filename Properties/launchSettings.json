@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Dava\\source\\repos\\Rikitav\\ShardScript\\ShardScript\\include\" \"ShardScript.hpp\""
+    }
+  }
+}
